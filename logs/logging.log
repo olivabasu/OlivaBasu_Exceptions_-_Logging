@@ -1,0 +1,48 @@
+2020-02-25 18:38:18 INFO  App:19 - Enter the principle amount:
+
+2020-02-25 18:38:26 ERROR App:21 - Enter the rate of interest(in percentage): 
+
+2020-02-25 18:38:27 ERROR App:23 - Enter the time period :
+
+2020-02-25 18:38:28 ERROR App:25 - Enter the number of times interest is applied per time period:
+
+2020-02-25 18:38:29 ERROR App:28 - What do you want to calculate?
+1.Simple Interest
+2.Compound Interest
+
+2020-02-25 18:38:31 ERROR App:35 - The Simple Interest calculated is:961.86
+
+2020-02-25 18:38:31 ERROR App:44 - Press 1 to continue.
+Press 0 to exit.
+2020-02-25 18:38:35 ERROR App:49 - GoodBye!
+2020-02-25 18:42:16 INFO  App:19 - Enter the principle amount:
+
+2020-02-25 18:42:42 INFO  App:19 - Enter the principle amount:
+
+2020-02-25 18:42:48 INFO  App:21 - Enter the rate of interest(in percentage): 
+
+2020-02-25 18:42:52 INFO  App:23 - Enter the time period :
+
+2020-02-25 18:42:54 INFO  App:25 - Enter the number of times interest is applied per time period:
+
+2020-02-25 18:42:57 INFO  App:28 - What do you want to calculate?
+1.Simple Interest
+2.Compound Interest
+
+2020-02-25 18:42:59 INFO  App:38 - The Compound Interest calculated is:3671547.4652709845
+
+2020-02-25 18:42:59 INFO  App:44 - Press 1 to continue.
+Press 0 to exit.
+2020-02-25 18:43:05 INFO  App:49 - GoodBye!
+2020-02-25 18:51:46 INFO  App:16 - Enter the total area of the house (in square feet).
+
+2020-02-25 18:54:18 INFO  App:16 - Enter the total area of the house (in square feet).
+
+2020-02-25 18:54:21 INFO  App:18 - What is the customer's preference?
+1.Use standard materials. (12000INR)
+2.Use above standard materials. (15000INR)
+3.High standard materials.(18000INR)
+4.High standard materials with fully automated home.(25000INR)
+
+2020-02-25 18:54:25 ERROR App:28 - Invalid choice.
+
